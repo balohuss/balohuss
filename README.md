@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balohuss aka Kenny
+- 👋 Hi, I’m @balotofi aka Kenny
 - 👀 I’m interested in space flight software and social commentary.
 - 🌱 I’m currently learning orbital mechanics and Aerospace with Python from Alfredo Gonzales.
 - 💞️ I’m looking to collaborate on anything and everything aerospace related with Python, if you could teach me C++ I wouldn't mind either.
