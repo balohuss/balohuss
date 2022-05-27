@@ -1,4 +1,27 @@
-- 👋 Hi, I’m @balotofi aka Kenny
+<div id="header" align="center">
+<img src="https://user-images.githubusercontent.com/100206676/170786540-2b9fc39c-e2cc-42bd-81a5-dd955a9d2aa4.png"![STK-20220527-WA0012]()
+ width="175"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/balotofi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCXtv7IBtgJKBd1xiDkFh-cw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.twitter.com/balotofi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <br><img src="https://komarev.com/ghpvc/?username=balotofi&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hi! I'm Kenny.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+</div>
+
+
+
+
 - I love food.
 - 👀 I’m interested in space flight software and social commentary.
 - 🌱 I’m currently learning orbital mechanics and Aerospace with Python from Alfredo Gonzales.
