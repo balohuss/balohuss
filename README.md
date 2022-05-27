@@ -19,10 +19,10 @@
 </div>
 </div>
 
+# :woman_technologist: About Me
 
-
-
-- I love food.
+- 📢 I'm a backend developer from Nigeria.
+- 🍚: I love food.
 - 👀 I’m interested in space flight software and social commentary.
 - 🌱 I’m currently learning orbital mechanics and Aerospace with Python from Alfredo Gonzales.
 - 💞️ I’m looking to collaborate on anything and everything aerospace related with Python, if you could teach me C++ I wouldn't mind either.
