@@ -49,6 +49,8 @@ I'm a backend developer from Nigeria.
 # :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is backend development?](https://medium.com/@balotofi/what-is-backend-development-6b2fa432da0?source=rss-3ac84733b25f------2)
+- [Google Summer of Code: I got accepted… now what?](https://medium.com/@balotofi/google-summer-of-code-i-got-accepted-now-what-2a640b83f3f8?source=rss-3ac84733b25f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
