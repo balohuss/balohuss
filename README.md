@@ -40,11 +40,6 @@ I'm a backend developer from Nigeria.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-# :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=balotofi&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balotofi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # :writing_hand: Blog Posts :
 
@@ -53,6 +48,13 @@ I'm a backend developer from Nigeria.
 - [What is backend development?](https://medium.com/@balotofi/what-is-backend-development-6b2fa432da0?source=rss-3ac84733b25f------2)
 - [Google Summer of Code: I got accepted… now what?](https://medium.com/@balotofi/google-summer-of-code-i-got-accepted-now-what-2a640b83f3f8?source=rss-3ac84733b25f------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+# :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=balotofi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balotofi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
