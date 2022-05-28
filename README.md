@@ -19,6 +19,8 @@
 </div>
 </div>
 
+<h3 align='center'>:woman_with_headscarf: 💻&nbsp&nbspSoftware Engineer | Backend Developer | LAMP Stack | Python&nbsp&nbsp :woman_with_headscarf:💻</h3>
+
 # :woman_technologist: About Me
 
 I'm a backend developer from Nigeria.
@@ -52,10 +54,26 @@ I'm a backend developer from Nigeria.
 
 # :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=balotofi&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align='center'>
+  <a href="https://github.com/mmpacker/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=balotofi&theme=vision-friendly-dark&show_icons=true" />
+  </a>&nbsp&nbsp
+  <a href="https://git.io/streak-stats">
+    <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=balotofi&theme=dark&background=000000" />
+  </a>&nbsp&nbsp
+  <a href="https://github.com/mmpacker/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=balotofi&theme=vision-friendly-dark" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balotofi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr/>
 
+<h4>I'm currently open to new career opportunities and project collaborations!</h4>
+<div>
+  <span>&nbsp&nbsp&nbsp📧&nbsp&nbsp&nbsp<strong>Email me</strong> at: <strong><em><a href='mailto: hebalogun@gmail.com'>hebalogun@gmail.com</a></em></strong></span><br>
+  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspor</span><br>
+  <span>&nbsp&nbsp&nbsp🔗&nbsp&nbsp&nbsp<strong>Connect with me</strong> on <strong><em><a href='https://www.linkedin.com/in/balotofi/'>LinkedIn</a></em></strong></span>
+</div>
 
 <!---
 balotofi/balotofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
