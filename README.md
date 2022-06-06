@@ -46,6 +46,7 @@ I'm a backend developer from Nigeria.
 # :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [What is SQL?](https://medium.com/@balotofi/what-is-sql-b1a4b43d4bb3?source=rss-3ac84733b25f------2)
 - [What is an API?](https://medium.com/@balotofi/what-is-an-api-9ff17db35c6f?source=rss-3ac84733b25f------2)
 - [What is a database?](https://medium.com/@balotofi/what-is-a-database-2a1ae3c1fa4a?source=rss-3ac84733b25f------2)
 - [What is backend development?](https://medium.com/@balotofi/what-is-backend-development-6b2fa432da0?source=rss-3ac84733b25f------2)
