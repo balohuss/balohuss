@@ -14,7 +14,7 @@
   <br><img src="https://komarev.com/ghpvc/?username=balotofi&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi! I'm Kenny.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px />
 </h1>
 </div>
 </div>
@@ -25,10 +25,13 @@
 
 I'm a backend developer from Nigeria.
 
-- 🍚 I love food.
-- 👀 I’m interested in space flight software and social commentary.
-- 🌱 I’m currently learning backend development with Python and JavaScript.
-- 💞️ I’m looking to collaborate on anything and everything aerospace related with Python
+🍚 I love food.
+
+👀 I’m interested in space flight software and social commentary.
+
+🌱 I’m currently learning backend development with Python and JavaScript.
+
+💞️ I’m looking to collaborate on anything and everything aerospace related with Python
 
 # :hammer_and_wrench: Languages and Tools :
 
