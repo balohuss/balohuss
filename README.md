@@ -13,11 +13,12 @@
   </a>
   <br><img src="https://komarev.com/ghpvc/?username=balotofi&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi! I'm Kenny.
+  Hi! I'm Husseinat, but you can call me Kenny.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px />
 </h1>
 </div>
 </div>
+
 
 <h3 align='center'>:woman_with_headscarf: 💻&nbsp&nbspSoftware Engineer | Backend Developer | LAMP Stack | Python&nbsp&nbsp :woman_with_headscarf:💻</h3>
 
