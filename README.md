@@ -2,6 +2,9 @@
 <img src="https://user-images.githubusercontent.com/100206676/170786540-2b9fc39c-e2cc-42bd-81a5-dd955a9d2aa4.png"![STK-20220527-WA0012]()
  width="175"/>
     <div id="badges">
+      <a href="https://www.tiktok.com/@balotofi">
+        <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+      </a>
       <a href="https://www.linkedin.com/in/balotofi">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
