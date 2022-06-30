@@ -31,6 +31,8 @@ I'm a backend developer from Nigeria.
 
 🍚 I love food.
 
+📹 I'm an avid content creator and consumer.
+
 👀 I’m interested in space flight software and social commentary.
 
 🌱 I’m currently learning backend development with Python and JavaScript.
