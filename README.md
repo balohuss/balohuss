@@ -23,11 +23,11 @@
 </div>
 
 
-<h3 align='center'>:woman_with_headscarf: 💻&nbsp&nbsp Programmer| Python&nbsp&nbsp :woman_with_headscarf:💻</h3>
+<h3 align='center'>:woman_with_headscarf: 💻&nbsp&nbsp Programmer | Python&nbsp&nbsp :woman_with_headscarf:💻</h3>
 
 # :woman_technologist: About Me
 
-I'm a backend developer from Nigeria.
+I'm a software engineer from Nigeria.
 
 📹 I'm an avid content creator and consumer.
 
