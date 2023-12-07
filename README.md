@@ -23,7 +23,7 @@
 </div>
 
 
-<h3 align='center'>:woman_with_headscarf: 💻&nbsp&nbspSoftware Engineer | Backend Developer | LAMP Stack | Python&nbsp&nbsp :woman_with_headscarf:💻</h3>
+<h3 align='center'>:woman_with_headscarf: 💻&nbsp&nbsp Programmer| Python&nbsp&nbsp :woman_with_headscarf:💻</h3>
 
 # :woman_technologist: About Me
 
