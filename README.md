@@ -43,7 +43,7 @@ I'm a backend developer from Nigeria.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 </div>
 
-# :fire: My Stats :
+# :fire: My Stats 
 
 <div align='center'>
   <a href="https://github.com/mmpacker/github-readme-stats">
