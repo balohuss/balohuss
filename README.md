@@ -61,7 +61,6 @@ I'm a software engineer from Nigeria.
 
 <h4>I'm currently open to new career opportunities and project collaborations!</h4>
 <div>
-<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspor</span><br>
   <span>&nbsp&nbsp&nbsp🔗&nbsp&nbsp&nbsp<strong>Connect with me</strong> on <strong><em><a href='https://www.linkedin.com/in/balotofi/'>LinkedIn</a></em></strong></span>
 </div>
 
