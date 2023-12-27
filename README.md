@@ -30,22 +30,11 @@ I'm a software engineer from Nigeria.
 
 💞️ I’m looking to collaborate on anything and everything aerospace related with Python
 
-# :hammer_and_wrench: Languages and Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
-</div>
-
-# :fire: My Stats 
+# 
 
 <div align='center'>
   <a href="https://github.com/mmpacker/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=balotofi&theme=vision-friendly-dark&show_icons=true" />
-  </a>&nbsp&nbsp
-  <a href="https://git.io/streak-stats">
-    <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=balotofi&theme=dark&background=000000" />
   </a>&nbsp&nbsp
   <a href="https://github.com/mmpacker/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=balotofi&theme=vision-friendly-dark" />
