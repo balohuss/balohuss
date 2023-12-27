@@ -17,19 +17,16 @@
     </div>
 </div>
 
-
-<h3 align='center'>:woman_with_headscarf: 💻&nbsp&nbsp Programmer | Python&nbsp&nbsp :woman_with_headscarf:💻</h3>
-
 # :woman_technologist: Hi there 👋!
 
 I'm Husseinat Etti-Balogun, a Nigerian developer currently based in Japan. Writing software is something I'm not-so-great-at but I want to turn it into my biggest strength. I'm particularly fond of writing in Python.
 
 Besides writing software, I have a passion for space exploration and public speaking. As such, I'm currently in the process of getting my masters in Space Systems Engineering. I'm also a member of the Space Generation Advisory Council, and have done a public talk or two on the software community. I'm an avid content creator and consumer and you can find me in any of the social links above.
 
-🔭 I’m currently working on my masters (BIRDSOpenSource)
-🌱 I’m currently learning C
-🤔 I’m looking for help with building BIRDSOpenSource's satellite tracks
-💬 Ask me about Python, Space, Open source
+* 🔭 I’m currently working on my masters (BIRDSOpenSource)
+* 🌱 I’m currently learning C
+* 🤔 I’m looking for help with building BIRDSOpenSource's satellite tracks
+* 💬 Ask me about Python, Space, Open source
   
 # 
 
@@ -43,11 +40,6 @@ Besides writing software, I have a passion for space exploration and public spea
 </div>
 
 <hr/>
-
-<h4>📫 How to reach me:</h4>
-<div>
-  <span>&nbsp&nbsp&nbsp🔗&nbsp&nbsp&nbsp<strong>Connect with me</strong> on <strong><em><a href='hebalogun@gmial.com'>my mail</a></em></strong></span>
-</div>
 
 <!---
 balotofi/balotofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
